@@ -1,3 +1,3 @@
 ,Accuracy,Precision,Recall,F1
-Random Forest,1.0,1.0,1.0,1.0
-SVM,0.9437,0.9419,0.9441,0.9429
+Random Forest,0.9908,0.9907,0.9906,0.9907
+SVM,0.9327,0.9308,0.9329,0.9317
